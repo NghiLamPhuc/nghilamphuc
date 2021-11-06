@@ -5,7 +5,7 @@
 **NghiLamPhuc/nghilamphuc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
-
+icon dep qua, sau them vo nhaaaa.
 - 🌱 I’m currently learning HTML, CSS, Javascript
 - 🤔 I’m looking for help with web design
 - 💬 Ask me about natural language processing
